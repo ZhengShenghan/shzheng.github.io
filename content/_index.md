@@ -141,7 +141,7 @@ sections:
       title: Miscs
       subtitle: ''
       text: '
-      ### Awards and Honors
+      # Awards and Honors
 
       ## University of California, Riverside 
 
