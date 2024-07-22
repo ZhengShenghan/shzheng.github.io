@@ -42,9 +42,9 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: news
+  - block: markdown
     content:
-      title: news
+      title: News
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin

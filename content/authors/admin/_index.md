@@ -60,7 +60,7 @@ education:
       url: https://www.berkeley.edu/
       year: 2021-2022
 
-news:
+markdown:
   - "__[05/2024]:__ [FedSecurity](./publication/fedsecurity/) got accepted by [KDD'24](https://kdd2024.kdd.org/applied-data-science-ads-track-call-for-papers/). Big congrats, Shanshan!"
   - "__[03/2024]:__ Artifacts of [ResolverFuzz](./publication/usenix24a/) has been released on [GitHub](https://github.com/ResolverFuzz/ResolverFuzz)."
   - "__[02/2024]:__ Presented a [poster](posters/ndss24-poster-ResolverFuzz.pdf) of [ResolverFuzz](./publication/usenix24a/) in [NDSS 2024](https://www.ndss-symposium.org/ndss2024/). Qifan has also presented [SLMIA-SR](https://www.ndss-symposium.org/ndss-paper/slmia-sr-speaker-level-membership-inference-attacks-against-speaker-recognition-systems/) on behalf of [Guangke Chen](https://guangkechen.site/) from [ShanghaiTech](https://www.shanghaitech.edu.cn/)."
