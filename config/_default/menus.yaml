@@ -21,9 +21,7 @@ main:
     weight: 50
   - name: Blogs
     url: '#blog'
-    weight: 50
-  - name: Hobby
-    url: '#personal'
+    weight: 60
   - name: Contact
     url: '#contact'
     weight: 70
