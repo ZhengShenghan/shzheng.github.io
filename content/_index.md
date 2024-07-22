@@ -241,7 +241,6 @@ sections:
     id: blogs
     content:
       title: Blogs
-  - block: personal
   - block: contact
     id: contact
     content:
