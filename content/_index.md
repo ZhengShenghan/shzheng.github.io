@@ -141,9 +141,9 @@ sections:
       title: Miscs
       subtitle: ''
       text: '
-      # Awards and Honors
+      ## Awards and Honors
 
-      ## University of California, Riverside 
+      #### University of California, Riverside 
 
       - Distinguished Dean’s Award(2023) 
 
