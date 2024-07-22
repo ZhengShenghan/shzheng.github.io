@@ -96,7 +96,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Awards'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -138,9 +138,15 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Miscs
       subtitle: ''
-      text: ''
+      text: '
+      ## Awards and Honors
+
+      ## Services
+
+      ## Teaching
+      '
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
