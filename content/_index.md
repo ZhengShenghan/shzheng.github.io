@@ -65,7 +65,7 @@ sections:
         - title: Graduate Student Researcher
           company: University of California
           company_url: 'https://www.ucr.edu/'
-          company_logo: org-uc
+          company_logo: org-gc
           location: California
           date_start: '2023-08-24'
           date_end: ''
@@ -73,7 +73,7 @@ sections:
         - title: Developer
           company: Shanghai Center of Brain Science and Brain-Inspired Technology
           company_url: 'https://www.bsbii.cn/website/49/index/index.html'
-          company_logo: org-sh
+          company_logo: org-gc
           location: Shanghai
           date_start: '2020-10-01'
           date_end: '2021-08-01'
