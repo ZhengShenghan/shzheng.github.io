@@ -42,9 +42,9 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
+  - block: news
     content:
-      title: Skills
+      title: news
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
@@ -62,27 +62,35 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
+        - title: Graduate Student Researcher
+          company: University of California
+          company_url: 'https://www.ucr.edu/'
+          company_logo: org-uc
           location: California
-          date_start: '2021-01-01'
+          date_start: '2023-08-24'
           date_end: ''
+          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Developer
+          company: Shanghai Center of Brain Science and Brain-Inspired Technology
+          company_url: 'https://www.bsbii.cn/website/49/index/index.html'
+          company_logo: org-sh
+          location: Shanghai
+          date_start: '2020-10-01'
+          date_end: '2021-08-01'
           description: |2-
               Responsibilities include:
 
-              * Analysing
+              * Knowledge Engineering
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        # - title: Professor of Semiconductor Physics
+        #   company: University X
+        #   company_url: ''
+        #   company_logo: org-x
+        #   location: California
+        #   date_start: '2016-01-01'
+        #   date_end: '2020-12-31'
+        #   description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
@@ -229,45 +237,35 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
+  - block: blog
+
+  - block: personal
   - block: contact
     id: contact
     content:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Feel free to contact me if you have any question with my works or want to collaborate.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      email: szhen75@ucr.edu
       # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+      # coordinates:
+      #   latitude: '37.4275'
+      #   longitude: '-122.1697'  
       contact_links:
-        - icon: twitter
+        - icon: x
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          link: 'https://x.com/shenghan_zheng'
+        # - icon: skype
+        #   icon_pack: fab
+        #   name: Skype Me
+        #   link: 'skype:echo123?call'
+        # - icon: video
+        #   icon_pack: fas
+        #   name: Zoom Me
+        #   link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider

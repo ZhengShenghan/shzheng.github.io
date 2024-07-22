@@ -16,7 +16,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -60,6 +60,11 @@ education:
       url: https://www.berkeley.edu/
       year: 2021-2022
 
+news:
+  - "__[05/2024]:__ [FedSecurity](./publication/fedsecurity/) got accepted by [KDD'24](https://kdd2024.kdd.org/applied-data-science-ads-track-call-for-papers/). Big congrats, Shanshan!"
+  - "__[03/2024]:__ Artifacts of [ResolverFuzz](./publication/usenix24a/) has been released on [GitHub](https://github.com/ResolverFuzz/ResolverFuzz)."
+  - "__[02/2024]:__ Presented a [poster](posters/ndss24-poster-ResolverFuzz.pdf) of [ResolverFuzz](./publication/usenix24a/) in [NDSS 2024](https://www.ndss-symposium.org/ndss2024/). Qifan has also presented [SLMIA-SR](https://www.ndss-symposium.org/ndss-paper/slmia-sr-speaker-level-membership-inference-attacks-against-speaker-recognition-systems/) on behalf of [Guangke Chen](https://guangkechen.site/) from [ShanghaiTech](https://www.shanghaitech.edu.cn/)."
+  - "__[01/2024]:__ [ResolverFuzz](./publication/usenix24a/) has been accepted by [OARC 42](https://indico.dns-oarc.net/event/48/contributions/1037/). See you in Charlotte, NC on Feb 8-9! Slides are available [here](https://indico.dns-oarc.net/event/48/contributions/1037/attachments/1000/1913/ResolverFuzz-OARC42-zhang.pdf). Video recording is available on [YouTube](https://youtu.be/YdW1aMtCbbE?si=Pu9Y5f56Gz8TId_i) and [Bilibili](https://www.bilibili.com/video/BV16v421y7XS)." 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
