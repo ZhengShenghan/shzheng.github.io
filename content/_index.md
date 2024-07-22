@@ -237,8 +237,10 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
-  - block: blog
-
+  - block: markdown
+    id: blogs
+    content:
+      title: Blogs
   - block: personal
   - block: contact
     id: contact
