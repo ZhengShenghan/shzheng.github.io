@@ -143,20 +143,34 @@ sections:
       text: '
       ## Awards and Honors
 
-      ### University of California, Riverside
-      - Distinguished Dean’s Award(2023)
+      ### University of California, Riverside \\
+
+      - Distinguished Dean’s Award(2023) 
+
       ### ShanghaiTech
+
       - Merit Student(2022)
+
       ## Services
+
       ### Artifact Evaluation Program Committee
+
       - NDSS: 2024
+
       ### Registered Reviewer
+
       - EAI SecureComm: 2024
+
       - IEEE T-IFS: 2024
+
       ### External Reviewer
+
       - CCS: 2024
+
       ## Teaching
+
       ### ShanghaiTech
+      
       - CS181 (Fall 2022): Artificial Intelligence (\# students: 136)
       '
       # Choose how many pages you would like to display (0 = all pages)
