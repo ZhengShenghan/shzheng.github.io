@@ -158,6 +158,8 @@ sections:
 
       - NDSS: 2024
 
+      - EuroSys: 2025
+
       #### Registered Reviewer
 
       - EAI SecureComm: 2024
