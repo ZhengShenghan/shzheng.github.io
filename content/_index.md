@@ -223,25 +223,7 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
-  # - block: collection
-  #   id: featured
-  #   content:
-  #     title: Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     columns: '2'
-  #     view: card
+
   - block: collection 
     id: featured 
     content:
@@ -276,6 +258,26 @@ sections:
     id: blogs
     content:
       title: Blogs
+  - block: markdown
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="demo" >}}
+    design:
+      columns: '1'
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     columns: '2'
+  #     view: card
+
   - block: contact
     id: contact
     content:
