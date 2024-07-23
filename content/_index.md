@@ -242,7 +242,8 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
-  - block: collection  
+  - block: collection 
+    id: featured 
     content:
       title: Publications
       # text: |-
