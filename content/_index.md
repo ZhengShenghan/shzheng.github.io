@@ -63,9 +63,9 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Graduate Student Researcher
-          company: University of California
+          company: University of California, Riverside
           company_url: 'https://www.ucr.edu/'
-          company_logo: org-gc
+          company_logo: org-ucr
           location: California
           date_start: '2023-08-24'
           date_end: ''
