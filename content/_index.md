@@ -69,7 +69,7 @@ sections:
           location: California
           date_start: '2023-08-24'
           date_end: ''
-          description: Taught electronic engineering and researched semiconductor physics.
+          # description: Taught electronic engineering and researched semiconductor physics.
         - title: Developer
           company: Shanghai Center of Brain Science and Brain-Inspired Technology
           company_url: 'https://www.bsbii.cn/website/49/index/index.html'
