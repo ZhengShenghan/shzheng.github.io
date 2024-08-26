@@ -44,7 +44,7 @@ education:
     # - course: BSc in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
     #   year: 2008
-    - course: MS in Computer Science
+    - course: M.S. in Computer Science
       institution: University of California, Riverside
       year: 2023 - now
     - course: B.Eng. in Computer Science and Technology, Minor in Entrepreneurship and Management
