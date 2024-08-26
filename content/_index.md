@@ -166,6 +166,8 @@ sections:
 
       - IEEE T-IFS: 2024
 
+      - Computer Networks: 2025
+
       #### External Reviewer
 
       - CCS: 2024
