@@ -16,7 +16,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student
+role: M.S. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -140,9 +140,9 @@ social:
 highlight_name: true
 ---
 
-Shenghan Zheng is a first-year PhD student in [Department of Computer Science and Engineering](https://www1.cs.ucr.edu/) of [University of California, Riverside](https://www.ucr.edu/) with
+Shenghan Zheng is a MS student in [Department of Computer Science and Engineering](https://www1.cs.ucr.edu/) of [University of California, Riverside](https://www.ucr.edu/) with
 focus in computer security. His research interests include network security, system security, software engineering and verification. He recently has a
-huge passion for using LLM to aid security&privacy problems and LLM itself. He is now a member of UCR Security Lab. Previously, he is a member of DSP Lab in University of California, Irvine.
+huge passion for using LLM to aid security&privacy problems and LLM itself. He was a member of UCR Security Lab. Previously, he is a member of DSP Lab in University of California, Irvine.
 Before that, he was an exchange student in [Department of Electrical Engineering&Computer Sciences](https://eecs.berkeley.edu/) of [University of California, Berkeley](https://www.berkeley.edu/).
 He received his BE degree in [Computer Science and Technology](https://sist.shanghaitech.edu.cn/) from [ShanghaiTech University](https://www.shanghaitech.edu.cn/) in 2023.
 {style="text-align: justify;"}
